@@ -5,16 +5,15 @@ Proporciona una descripción clara y concisa de los cambios que estás proponien
 ## Cambios (opcional)
 Si no vas a usar esta sección, elimínala.
 
-- Corrección de error (cambio no disruptivo que corrige un problema)
-- Nueva funcionalidad (cambio no disruptivo que agrega funcionalidad)
-- Cambio disruptivo (corrección o funcionalidad que haría que el comportamiento existente no funcione como se espera)
+- Corrección de error
+- Nueva funcionalidad
 - Actualización de documentación
 
 ## Lista de verificación (opcional)
 Si no vas a usar esta sección, elimínala.
 
 - He probado mis cambios localmente
-- He actualizado la documentación si fue necesario
+- He actualizado la documentación
 - Mi código sigue las pautas de estilo del proyecto
 - He agregado pruebas que demuestren que mi corrección es efectiva o que mi funcionalidad funciona
 
