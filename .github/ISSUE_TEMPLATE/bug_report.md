@@ -1,26 +1,38 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+name: Informe de error
+about: Crea un informe para ayudarnos a mejorar
+title: ""
+labels: ""
+assignees: ""
 ---
 
-## Summary
-Describe the bug and how this PR fixes it.
+## Resumen
 
-## Steps to Reproduce
-Explain how the bug can be reproduced.
+Describe el error y cómo este PR lo corrige.
 
-## Expected Behavior
-Describe what should happen once the bug is fixed.
+## Pasos para reproducir (opcional)
 
-## Changes Introduced
-List the specific changes made to fix the issue.
+Si no vas a usar esta sección, elimínala.
 
-## Checklist
-- [ ] Bug reproduced and confirmed
-- [ ] Fix implemented
-- [ ] Tests added to prevent regression
-- [ ] Documentation updated if necessary
+Explica cómo se puede reproducir el error.
+
+## Comportamiento esperado (opcional)
+
+Si no vas a usar esta sección, elimínala.
+
+Describe lo que debería suceder una vez que el error esté corregido.
+
+## Cambios introducidos (opcional)
+
+Si no vas a usar esta sección, elimínala.
+
+Enumera los cambios específicos realizados para solucionar el problema.
+
+## Lista de verificación (opcional)
+
+Si no vas a usar esta sección, elimínala.
+
+- Error reproducido y confirmado
+- Corrección implementada
+- Pruebas agregadas para prevenir regresiones
+- Documentación actualizada si fue necesario

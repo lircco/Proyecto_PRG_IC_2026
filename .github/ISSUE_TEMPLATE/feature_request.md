@@ -1,29 +1,41 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
+name: Solicitud de funcionalidad
+about: Sugiere una idea para este proyecto
+title: ""
+labels: ""
+assignees: ""
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**¿Tu solicitud de funcionalidad está relacionada con un problema? Describe.**
+Una descripción clara y concisa de cuál es el problema. Por ejemplo: siempre me frustra cuando [...]
 
-## Feature Summary
-Describe the new feature being added.
+## Resumen de la funcionalidad
 
-## Motivation
-Explain why this feature is needed and what problem it solves.
+Describe la nueva funcionalidad que se está agregando.
 
-## Implementation Details
-Provide technical details about how the feature was implemented.
+## Motivación (opcional)
+Si no vas a usar esta sección, elimínala.
 
-## Screenshots (if applicable)
-Add screenshots or GIFs to illustrate the feature.
 
-## Checklist
-- [ ] Feature implemented
-- [ ] Tests added and passing
-- [ ] Documentation updated
-- [ ] No breaking changes introduced
+Explica por qué se necesita esta funcionalidad y qué problema resuelve.
+
+## Detalles de implementación (opcional)
+Si no vas a usar esta sección, elimínala.
+
+
+Proporciona detalles técnicos sobre cómo se implementó la funcionalidad.
+
+## Capturas de pantalla (opcional)
+Si no vas a usar esta sección, elimínala.
+
+
+Agrega capturas o GIFs para ilustrar la funcionalidad.
+
+## Lista de verificación (opcional)
+Si no vas a usar esta sección, elimínala.
+
+
+- Funcionalidad implementada
+- Pruebas agregadas y aprobadas
+- Documentación actualizada
+- No se introdujeron cambios disruptivos
